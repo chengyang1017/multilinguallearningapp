@@ -116,7 +116,9 @@ class LanguageSelectPage extends StatelessWidget {
     case LearningLanguage.russian:
       return '名词变格、动词变位';
       case LearningLanguage.javanese:
-  return '敬语系统：普通/敬语/高敬语三级';
+    return '敬语系统：普通/敬语/高敬语三级';
+      case LearningLanguage.muong:
+    return '越南少数民族语言，与越南语同源';
   }
 }
 }

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1", "word": "Chào", "meaningCN": "你好", "pronunciation": "chow",
+    "example": "Chào, mày khỏe không?", "exampleMeaning": "你好，你好吗？",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Chào", "meaning": "你好", "suffix": "", "group": "基本形式"},
+      {"form": "Chào nhà", "meaning": "您好(敬语)", "suffix": " + nhà", "group": "敬语"}
+    ]
+  },
+  {
+    "id": "2", "word": "Ơn", "meaningCN": "谢谢", "pronunciation": "ern",
+    "example": "Ơn mày.", "exampleMeaning": "谢谢你。",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Ơn", "meaning": "谢谢", "suffix": "", "group": "基本形式"},
+      {"form": "Ơn nhiều", "meaning": "非常感谢", "suffix": " + nhiều", "group": "程度"}
+    ]
+  },
+  {
+    "id": "3", "word": "Xin lỗi", "meaningCN": "对不起", "pronunciation": "sin loy",
+    "example": "Xin lỗi, tao đến muộn.", "exampleMeaning": "对不起，我来晚了。",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1, 1],
+    "variants": []
+  },
+  {
+    "id": "4", "word": "Chào nhá", "meaningCN": "再见", "pronunciation": "chow nya",
+    "example": "Chào nhá, mai gặp lại.", "exampleMeaning": "再见，明天见。",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1, 1],
+    "variants": []
+  },
+  {
+    "id": "5", "word": "Tao", "meaningCN": "我", "pronunciation": "tao",
+    "example": "Tao là người Mường.", "exampleMeaning": "我是芒族人。",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Tao", "meaning": "我", "suffix": "", "group": "基本形式"},
+      {"form": "Mày", "meaning": "你", "suffix": "", "group": "人称"},
+      {"form": "Nó", "meaning": "他/她", "suffix": "", "group": "人称"},
+      {"form": "Chúng tôi", "meaning": "我们", "suffix": "", "group": "人称"},
+      {"form": "Chúng mày", "meaning": "你们", "suffix": "", "group": "人称"},
+      {"form": "Chúng nó", "meaning": "他们", "suffix": "", "group": "人称"}
+    ]
+  },
+  {
+    "id": "6", "word": "Mày", "meaningCN": "你", "pronunciation": "may",
+    "example": "Mày ở đâu?", "exampleMeaning": "你在哪里？",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": []
+  },
+  {
+    "id": "7", "word": "Ăn", "meaningCN": "吃", "pronunciation": "an",
+    "example": "Tao ăn cơm.", "exampleMeaning": "我吃饭。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Ăn", "meaning": "吃", "suffix": "", "group": "基本形式"},
+      {"form": "Tao ăn", "meaning": "我吃", "suffix": "", "group": "人称变化"},
+      {"form": "Mày ăn", "meaning": "你吃", "suffix": "", "group": "人称变化"},
+      {"form": "Nó ăn", "meaning": "他吃", "suffix": "", "group": "人称变化"},
+      {"form": "Đã ăn", "meaning": "吃了(过去)", "suffix": "đã +", "group": "时态变化"},
+      {"form": "Đang ăn", "meaning": "正在吃", "suffix": "đang +", "group": "时态变化"},
+      {"form": "Sẽ ăn", "meaning": "将要吃", "suffix": "sẽ +", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "8", "word": "Uống", "meaningCN": "喝", "pronunciation": "u-ong",
+    "example": "Tao uống nước.", "exampleMeaning": "我喝水。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Uống", "meaning": "喝", "suffix": "", "group": "基本形式"},
+      {"form": "Đã uống", "meaning": "喝了(过去)", "suffix": "đã +", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "9", "word": "Đi", "meaningCN": "去/走", "pronunciation": "dee",
+    "example": "Tao đi chợ.", "exampleMeaning": "我去市场。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Đi", "meaning": "去", "suffix": "", "group": "基本形式"},
+      {"form": "Đã đi", "meaning": "去了(过去)", "suffix": "đã +", "group": "时态变化"},
+      {"form": "Đang đi", "meaning": "正在去", "suffix": "đang +", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "10", "word": "Ngủ", "meaningCN": "睡觉", "pronunciation": "ngoo",
+    "example": "Tao đi ngủ.", "exampleMeaning": "我去睡觉。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": []
+  },
+  {
+    "id": "11", "word": "Cơm", "meaningCN": "米饭", "pronunciation": "germ",
+    "example": "Tao ăn cơm.", "exampleMeaning": "我吃饭。",
+    "category": "饮食", "difficulty": "easy", "tonePattern": [1],
+    "variants": []
+  },
+  {
+    "id": "12", "word": "Nước", "meaningCN": "水", "pronunciation": "nu-erk",
+    "example": "Tao uống nước.", "exampleMeaning": "我喝水。",
+    "category": "饮食", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Nước", "meaning": "水", "suffix": "", "group": "基本形式"},
+      {"form": "Nước sôi", "meaning": "开水", "suffix": " + sôi", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "13", "word": "Nhà", "meaningCN": "家/房子", "pronunciation": "nya",
+    "example": "Tao về nhà.", "exampleMeaning": "我回家。",
+    "category": "名词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Nhà", "meaning": "家", "suffix": "", "group": "基本形式"},
+      {"form": "Nhà tao", "meaning": "我的家", "suffix": " + tao", "group": "属人变化"},
+      {"form": "Nhà mày", "meaning": "你的家", "suffix": " + mày", "group": "属人变化"}
+    ]
+  },
+  {
+    "id": "14", "word": "Hôm ni", "meaningCN": "今天", "pronunciation": "hom nee",
+    "example": "Hôm ni đẹp.", "exampleMeaning": "今天好。",
+    "category": "时间日期", "difficulty": "easy", "tonePattern": [1, 1],
+    "variants": [
+      {"form": "Hôm ni", "meaning": "今天", "suffix": "", "group": "基本形式"},
+      {"form": "Ngày mai", "meaning": "明天", "suffix": "", "group": "时间序列"},
+      {"form": "Hôm qua", "meaning": "昨天", "suffix": "", "group": "时间序列"}
+    ]
+  },
+  {
+    "id": "15", "word": "Mấy", "meaningCN": "多少", "pronunciation": "may",
+    "example": "Mấy tiền?", "exampleMeaning": "多少钱？",
+    "category": "疑问词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Mấy", "meaning": "多少", "suffix": "", "group": "基本形式"},
+      {"form": "Ai", "meaning": "谁", "suffix": "", "group": "疑问词"},
+      {"form": "Chi", "meaning": "什么", "suffix": "", "group": "疑问词"},
+      {"form": "Ở đâu", "meaning": "哪里", "suffix": "", "group": "疑问词"},
+      {"form": "Bao giờ", "meaning": "什么时候", "suffix": "", "group": "疑问词"}
+    ]
+  }
+]
