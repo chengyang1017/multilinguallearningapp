@@ -1,0 +1,173 @@
+[
+  {
+    "id": "1", "word": "Halo", "meaningCN": "你好", "pronunciation": "ha-lo",
+    "example": "Halo, piye kabare?", "exampleMeaning": "你好，你好吗？",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Halo", "meaning": "你好(通用)", "suffix": "", "group": "基本形式"},
+      {"form": "Sugeng enjing", "meaning": "早上好(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Sugeng siang", "meaning": "中午好(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Sugeng sonten", "meaning": "下午好(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Sugeng dalu", "meaning": "晚上好(敬语)", "suffix": "", "group": "敬语"}
+    ]
+  },
+  {
+    "id": "2", "word": "Matur nuwun", "meaningCN": "谢谢", "pronunciation": "ma-toor noo-woon",
+    "example": "Matur nuwun sanget.", "exampleMeaning": "非常感谢。",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1, 1],
+    "variants": [
+      {"form": "Matur nuwun", "meaning": "谢谢(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Nuwun sewu", "meaning": "谢谢/不好意思", "suffix": "", "group": "口语"},
+      {"form": "Thank you", "meaning": "谢谢(外来语)", "suffix": "", "group": "外来语"}
+    ]
+  },
+  {
+    "id": "3", "word": "Nyuwun pangapunten", "meaningCN": "对不起", "pronunciation": "nyoo-woon pa-nga-poon-ten",
+    "example": "Nyuwun pangapunten, kula telat.", "exampleMeaning": "对不起，我迟到了。",
+    "category": "问候礼貌", "difficulty": "medium", "tonePattern": [1, 1, 1],
+    "variants": [
+      {"form": "Nyuwun pangapunten", "meaning": "对不起(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Ngapunten", "meaning": "对不起(口语)", "suffix": "", "group": "口语"},
+      {"form": "Sorry", "meaning": "对不起(外来语)", "suffix": "", "group": "外来语"}
+    ]
+  },
+  {
+    "id": "4", "word": "Sugeng tindak", "meaningCN": "再见", "pronunciation": "soo-geng tin-dak",
+    "example": "Sugeng tindak, nganti ketemu maneh.", "exampleMeaning": "再见，下次见。",
+    "category": "问候礼貌", "difficulty": "medium", "tonePattern": [1, 1],
+    "variants": [
+      {"form": "Sugeng tindak", "meaning": "再见(对要离开的人)", "suffix": "", "group": "敬语"},
+      {"form": "Sugeng mantuk", "meaning": "再见(对要回家的人)", "suffix": "", "group": "敬语"},
+      {"form": "Dadah", "meaning": "拜拜(口语)", "suffix": "", "group": "口语"},
+      {"form": "Bye", "meaning": "拜拜(外来语)", "suffix": "", "group": "外来语"}
+    ]
+  },
+  {
+    "id": "5", "word": "Kula", "meaningCN": "我(谦称)", "pronunciation": "koo-la",
+    "example": "Kula tiyang Jawi.", "exampleMeaning": "我是爪哇人。",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Kula", "meaning": "我(对长辈/正式)", "suffix": "", "group": "敬语"},
+      {"form": "Dalem", "meaning": "我(对贵族)", "suffix": "", "group": "高敬语"},
+      {"form": "Aku", "meaning": "我(平辈/口语)", "suffix": "", "group": "普通"},
+      {"form": "Kawula", "meaning": "我(文学/旧式)", "suffix": "", "group": "文学"}
+    ]
+  },
+  {
+    "id": "6", "word": "Panjenengan", "meaningCN": "您", "pronunciation": "pan-je-neng-an",
+    "example": "Panjenengan saking pundi?", "exampleMeaning": "您从哪里来？",
+    "category": "人称代词", "difficulty": "medium", "tonePattern": [1, 1, 1],
+    "variants": [
+      {"form": "Panjenengan", "meaning": "您(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Sampeyan", "meaning": "你(半敬语)", "suffix": "", "group": "半敬语"},
+      {"form": "Kowe", "meaning": "你(平辈/口语)", "suffix": "", "group": "普通"},
+      {"form": "Sira", "meaning": "你(文学/旧式)", "suffix": "", "group": "文学"}
+    ]
+  },
+  {
+    "id": "7", "word": "Piyambakipun", "meaningCN": "他/她", "pronunciation": "pi-yam-bak-i-poon",
+    "example": "Piyambakipun guru kula.", "exampleMeaning": "他/她是我的老师。",
+    "category": "人称代词", "difficulty": "hard", "tonePattern": [1, 1, 1, 1],
+    "variants": [
+      {"form": "Piyambakipun", "meaning": "他/她(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Dheweke", "meaning": "他/她(普通)", "suffix": "", "group": "普通"},
+      {"form": "Dheweke kabeh", "meaning": "他们", "suffix": " + kabeh", "group": "复数"}
+    ]
+  },
+  {
+    "id": "8", "word": "Mangan", "meaningCN": "吃", "pronunciation": "ma-ngan",
+    "example": "Kula mangan sego.", "exampleMeaning": "我吃饭。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Mangan", "meaning": "吃(普通)", "suffix": "", "group": "普通"},
+      {"form": "Nedha", "meaning": "吃(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Dhahar", "meaning": "吃(高敬语)", "suffix": "", "group": "高敬语"},
+      {"form": "Aku mangan", "meaning": "我吃", "suffix": "", "group": "人称变化"},
+      {"form": "Kowe mangan", "meaning": "你吃", "suffix": "", "group": "人称变化"},
+      {"form": "Dheweke mangan", "meaning": "他吃", "suffix": "", "group": "人称变化"},
+      {"form": "Wis mangan", "meaning": "吃过了", "suffix": "wis +", "group": "时态变化"},
+      {"form": "Arep mangan", "meaning": "将要吃", "suffix": "arep +", "group": "时态变化"},
+      {"form": "Lagi mangan", "meaning": "正在吃", "suffix": "lagi +", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "9", "word": "Ngombe", "meaningCN": "喝", "pronunciation": "ngom-be",
+    "example": "Kula ngombe toya.", "exampleMeaning": "我喝水。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Ngombe", "meaning": "喝(普通)", "suffix": "", "group": "普通"},
+      {"form": "Ngunjuk", "meaning": "喝(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Wis ngombe", "meaning": "喝过了", "suffix": "wis +", "group": "时态变化"},
+      {"form": "Arep ngombe", "meaning": "将要喝", "suffix": "arep +", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "10", "word": "Sego", "meaningCN": "米饭", "pronunciation": "se-go",
+    "example": "Kula mangan sego.", "exampleMeaning": "我吃饭。",
+    "category": "饮食", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Sego", "meaning": "米饭(普通)", "suffix": "", "group": "普通"},
+      {"form": "Sekul", "meaning": "米饭(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Sego goreng", "meaning": "炒饭", "suffix": " + goreng", "group": "派生词"},
+      {"form": "Sego pecel", "meaning": "花生酱饭", "suffix": " + pecel", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "11", "word": "Toya", "meaningCN": "水", "pronunciation": "to-ya",
+    "example": "Kula ngombe toya.", "exampleMeaning": "我喝水。",
+    "category": "饮食", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Toya", "meaning": "水(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Banyu", "meaning": "水(普通)", "suffix": "", "group": "普通"},
+      {"form": "Toya putih", "meaning": "白开水", "suffix": " + putih", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "12", "word": "Omah", "meaningCN": "家/房子", "pronunciation": "o-mah",
+    "example": "Kula mantuk dhateng omah.", "exampleMeaning": "我回家。",
+    "category": "名词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Omah", "meaning": "家(普通)", "suffix": "", "group": "普通"},
+      {"form": "Griya", "meaning": "家(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Dalem", "meaning": "府邸(高敬语)", "suffix": "", "group": "高敬语"},
+      {"form": "Omahku", "meaning": "我的家", "suffix": "-ku", "group": "属人变化"},
+      {"form": "Omahmu", "meaning": "你的家", "suffix": "-mu", "group": "属人变化"},
+      {"form": "Omahe", "meaning": "他的家", "suffix": "-e", "group": "属人变化"}
+    ]
+  },
+  {
+    "id": "13", "word": "Saiki", "meaningCN": "现在", "pronunciation": "sa-i-ki",
+    "example": "Saiki kula mangan.", "exampleMeaning": "现在我在吃饭。",
+    "category": "时间日期", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Saiki", "meaning": "现在", "suffix": "", "group": "基本形式"},
+      {"form": "Sakmenika", "meaning": "现在(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Sesuk", "meaning": "明天", "suffix": "", "group": "时间序列"},
+      {"form": "Wingi", "meaning": "昨天", "suffix": "", "group": "时间序列"}
+    ]
+  },
+  {
+    "id": "14", "word": "Piro", "meaningCN": "多少", "pronunciation": "pi-ro",
+    "example": "Regane piro?", "exampleMeaning": "多少钱？",
+    "category": "疑问词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Piro", "meaning": "多少", "suffix": "", "group": "基本形式"},
+      {"form": "Pinten", "meaning": "多少(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Sopo", "meaning": "谁", "suffix": "", "group": "疑问词"},
+      {"form": "Apa", "meaning": "什么", "suffix": "", "group": "疑问词"},
+      {"form": "Ngendi", "meaning": "哪里", "suffix": "", "group": "疑问词"},
+      {"form": "Kapan", "meaning": "什么时候", "suffix": "", "group": "疑问词"}
+    ]
+  },
+  {
+    "id": "15", "word": "Gede", "meaningCN": "大", "pronunciation": "ge-de",
+    "example": "Omah iki gede.", "exampleMeaning": "这个房子大。",
+    "category": "形容词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Gede", "meaning": "大(普通)", "suffix": "", "group": "普通"},
+      {"form": "Ageng", "meaning": "大(敬语)", "suffix": "", "group": "敬语"},
+      {"form": "Cilik", "meaning": "小", "suffix": "", "group": "反义词"},
+      {"form": "Paling gede", "meaning": "最大", "suffix": "paling +", "group": "最高级"}
+    ]
+  }
+]
