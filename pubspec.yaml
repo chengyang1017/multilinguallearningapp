@@ -1,0 +1,30 @@
+name: viet_phrase
+description: 越音 - 越南语学习App
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  cupertino_icons: ^1.0.8
+  audioplayers: ^6.1.0
+  http: ^1.2.2
+  path_provider: ^2.1.4
+  shared_preferences: ^2.3.4
+  flutter_tts: ^4.2.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/languages/

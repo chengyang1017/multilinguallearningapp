@@ -1,0 +1,267 @@
+[
+  {
+    "id": "1", "word": "Привет", "meaningCN": "你好", "pronunciation": "privyét",
+    "example": "Привет, как дела?", "exampleMeaning": "你好，最近怎样？",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Привет", "meaning": "你好(非正式)", "suffix": "", "group": "基本形式"},
+      {"form": "Здравствуйте", "meaning": "您好(正式)", "suffix": "", "group": "正式"},
+      {"form": "Здорово", "meaning": "嗨(俚语)", "suffix": "", "group": "俚语"}
+    ]
+  },
+  {
+    "id": "2", "word": "Спасибо", "meaningCN": "谢谢", "pronunciation": "spasíba",
+    "example": "Большое спасибо!", "exampleMeaning": "非常感谢！",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Спасибо", "meaning": "谢谢", "suffix": "", "group": "基本形式"},
+      {"form": "Большое спасибо", "meaning": "非常感谢", "suffix": "большое", "group": "程度"},
+      {"form": "Спасибо большое", "meaning": "多谢", "suffix": "большое后置", "group": "语序变体"},
+      {"form": "Спасибочки", "meaning": "谢谢啦(可爱)", "suffix": "-чки", "group": "口语"}
+    ]
+  },
+  {
+    "id": "3", "word": "Извините", "meaningCN": "对不起", "pronunciation": "izvinítye",
+    "example": "Извините, я опоздал.", "exampleMeaning": "对不起，我迟到了。",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Извините", "meaning": "对不起(正式/复数)", "suffix": "-те", "group": "基本形式"},
+      {"form": "Извини", "meaning": "对不起(非正式)", "suffix": "-и", "group": "人称变化"},
+      {"form": "Простите", "meaning": "请原谅(正式)", "suffix": "", "group": "同义词"},
+      {"form": "Прости", "meaning": "原谅(非正式)", "suffix": "", "group": "同义词"}
+    ]
+  },
+  {
+    "id": "4", "word": "До свидания", "meaningCN": "再见", "pronunciation": "da svidániya",
+    "example": "До свидания, увидимся!", "exampleMeaning": "再见，回头见！",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1, 1],
+    "variants": [
+      {"form": "До свидания", "meaning": "再见(正式)", "suffix": "", "group": "基本形式"},
+      {"form": "Пока", "meaning": "拜拜(非正式)", "suffix": "", "group": "口语"},
+      {"form": "До встречи", "meaning": "回头见", "suffix": "", "group": "变体"},
+      {"form": "Увидимся", "meaning": "再见(我们会见面)", "suffix": "", "group": "变体"}
+    ]
+  },
+  {
+    "id": "5", "word": "Спокойной ночи", "meaningCN": "晚安", "pronunciation": "spakóynay nóchi",
+    "example": "Спокойной ночи, сладких снов!", "exampleMeaning": "晚安，好梦！",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1, 1, 1],
+    "variants": [
+      {"form": "Спокойной ночи", "meaning": "晚安", "suffix": "属格", "group": "基本形式"},
+      {"form": "Доброй ночи", "meaning": "晚安(变体)", "suffix": "", "group": "变体"},
+      {"form": "Сладких снов", "meaning": "好梦", "suffix": "", "group": "搭配"}
+    ]
+  },
+  {
+    "id": "6", "word": "Я", "meaningCN": "我", "pronunciation": "ya",
+    "example": "Я студент.", "exampleMeaning": "我是学生。",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Я", "meaning": "我(主格)", "suffix": "", "group": "格变化"},
+      {"form": "Меня", "meaning": "我(属格/宾格)", "suffix": "меня", "group": "格变化"},
+      {"form": "Мне", "meaning": "我(与格)", "suffix": "мне", "group": "格变化"},
+      {"form": "Мной / Мною", "meaning": "我(工具格)", "suffix": "мной", "group": "格变化"},
+      {"form": "Обо мне", "meaning": "关于我(前置格)", "suffix": "мне", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "7", "word": "Ты", "meaningCN": "你", "pronunciation": "ty",
+    "example": "Ты откуда?", "exampleMeaning": "你来自哪里？",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Ты", "meaning": "你(主格)", "suffix": "", "group": "格变化"},
+      {"form": "Тебя", "meaning": "你(属格/宾格)", "suffix": "тебя", "group": "格变化"},
+      {"form": "Тебе", "meaning": "你(与格)", "suffix": "тебе", "group": "格变化"},
+      {"form": "Тобой / Тобою", "meaning": "你(工具格)", "suffix": "тобой", "group": "格变化"},
+      {"form": "О тебе", "meaning": "关于你(前置格)", "suffix": "тебе", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "8", "word": "Вы", "meaningCN": "您/你们", "pronunciation": "vy",
+    "example": "Вы откуда?", "exampleMeaning": "您来自哪里？",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Вы", "meaning": "您(主格)", "suffix": "", "group": "格变化"},
+      {"form": "Вас", "meaning": "您(属格/宾格)", "suffix": "вас", "group": "格变化"},
+      {"form": "Вам", "meaning": "您(与格)", "suffix": "вам", "group": "格变化"},
+      {"form": "Вами", "meaning": "您(工具格)", "suffix": "вами", "group": "格变化"},
+      {"form": "О вас", "meaning": "关于您(前置格)", "suffix": "вас", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "9", "word": "Он / Она / Оно / Они", "meaningCN": "他/她/它/他们", "pronunciation": "on / aná / anó / aní",
+    "example": "Он студент, она студентка.", "exampleMeaning": "他是学生，她是学生。",
+    "category": "人称代词", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "Он", "meaning": "他(主格)", "suffix": "", "group": "第三人称"},
+      {"form": "Его", "meaning": "他(属格/宾格)", "suffix": "его", "group": "第三人称"},
+      {"form": "Ему", "meaning": "他(与格)", "suffix": "ему", "group": "第三人称"},
+      {"form": "Им", "meaning": "他(工具格)", "suffix": "им", "group": "第三人称"},
+      {"form": "Она", "meaning": "她(主格)", "suffix": "", "group": "第三人称"},
+      {"form": "Её", "meaning": "她(属格/宾格)", "suffix": "её", "group": "第三人称"},
+      {"form": "Ей", "meaning": "她(与格)", "suffix": "ей", "group": "第三人称"},
+      {"form": "Они", "meaning": "他们(主格)", "suffix": "", "group": "复数"},
+      {"form": "Их", "meaning": "他们(属格/宾格)", "suffix": "их", "group": "复数"},
+      {"form": "Им", "meaning": "他们(与格)", "suffix": "им", "group": "复数"}
+    ]
+  },
+  {
+    "id": "10", "word": "Да", "meaningCN": "是", "pronunciation": "da",
+    "example": "Да, я согласен.", "exampleMeaning": "是的，我同意。",
+    "category": "常用词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Да", "meaning": "是", "suffix": "", "group": "基本形式"},
+      {"form": "Конечно", "meaning": "当然", "suffix": "", "group": "同义词"},
+      {"form": "Ага", "meaning": "嗯(口语)", "suffix": "", "group": "口语"},
+      {"form": "Так точно", "meaning": "是的(正式/军队)", "suffix": "", "group": "正式"}
+    ]
+  },
+  {
+    "id": "11", "word": "Нет", "meaningCN": "不/不是", "pronunciation": "nyet",
+    "example": "Нет, спасибо.", "exampleMeaning": "不，谢谢。",
+    "category": "常用词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Нет", "meaning": "不", "suffix": "", "group": "基本形式"},
+      {"form": "Не", "meaning": "不(前缀否定)", "suffix": "", "group": "否定前缀"},
+      {"form": "Ни", "meaning": "一点也(加强否定)", "suffix": "", "group": "加强否定"},
+      {"form": "Нету", "meaning": "没有(口语)", "suffix": "", "group": "口语"}
+    ]
+  },
+  {
+    "id": "12", "word": "Читать", "meaningCN": "读", "pronunciation": "chitát'",
+    "example": "Я читаю книгу.", "exampleMeaning": "我在读书。",
+    "category": "常用动词", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "Читать", "meaning": "读(不定式)", "suffix": "-ть", "group": "基本形式"},
+      {"form": "Я читаю", "meaning": "我读(现在)", "suffix": "-ю", "group": "现在时"},
+      {"form": "Ты читаешь", "meaning": "你读(现在)", "suffix": "-ешь", "group": "现在时"},
+      {"form": "Он/она читает", "meaning": "他/她读(现在)", "suffix": "-ет", "group": "现在时"},
+      {"form": "Мы читаем", "meaning": "我们读(现在)", "suffix": "-ем", "group": "现在时"},
+      {"form": "Вы читаете", "meaning": "你们读(现在)", "suffix": "-ете", "group": "现在时"},
+      {"form": "Они читают", "meaning": "他们读(现在)", "suffix": "-ют", "group": "现在时"},
+      {"form": "Читал", "meaning": "读过(阳性过去)", "suffix": "-л", "group": "过去时"},
+      {"form": "Читала", "meaning": "读过(阴性过去)", "suffix": "-ла", "group": "过去时"},
+      {"form": "Читало", "meaning": "读过(中性过去)", "suffix": "-ло", "group": "过去时"},
+      {"form": "Читали", "meaning": "读过(复数过去)", "suffix": "-ли", "group": "过去时"},
+      {"form": "Буду читать", "meaning": "将要读(将来)", "suffix": "буду +", "group": "将来时"},
+      {"form": "Прочитаю", "meaning": "读完(完成体)", "suffix": "про- + -ю", "group": "完成体"},
+      {"form": "Читай!", "meaning": "读!(命令)", "suffix": "-й", "group": "命令式"}
+    ]
+  },
+  {
+    "id": "13", "word": "Говорить", "meaningCN": "说", "pronunciation": "gavarit'",
+    "example": "Я говорю по-русски.", "exampleMeaning": "我说俄语。",
+    "category": "常用动词", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "Говорить", "meaning": "说(不定式)", "suffix": "-ть", "group": "基本形式"},
+      {"form": "Я говорю", "meaning": "我说(现在)", "suffix": "-ю", "group": "现在时"},
+      {"form": "Ты говоришь", "meaning": "你说(现在)", "suffix": "-ишь", "group": "现在时"},
+      {"form": "Он/она говорит", "meaning": "他/她说(现在)", "suffix": "-ит", "group": "现在时"},
+      {"form": "Мы говорим", "meaning": "我们说(现在)", "suffix": "-им", "group": "现在时"},
+      {"form": "Они говорят", "meaning": "他们说(现在)", "suffix": "-ят", "group": "现在时"},
+      {"form": "Говорил", "meaning": "说过(阳性过去)", "suffix": "-л", "group": "过去时"},
+      {"form": "Говорила", "meaning": "说过(阴性过去)", "suffix": "-ла", "group": "过去时"},
+      {"form": "Скажу", "meaning": "我会说(完成体)", "suffix": "с- + -у", "group": "完成体"},
+      {"form": "Говори!", "meaning": "说!(命令)", "suffix": "-и", "group": "命令式"}
+    ]
+  },
+  {
+    "id": "14", "word": "Писать", "meaningCN": "写", "pronunciation": "pisát'",
+    "example": "Я пишу письмо.", "exampleMeaning": "我在写信。",
+    "category": "常用动词", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "Писать", "meaning": "写(不定式)", "suffix": "-ть", "group": "基本形式"},
+      {"form": "Я пишу", "meaning": "我写(现在)", "suffix": "-у", "group": "现在时"},
+      {"form": "Ты пишешь", "meaning": "你写(现在)", "suffix": "-ешь", "group": "现在时"},
+      {"form": "Он пишет", "meaning": "他写(现在)", "suffix": "-ет", "group": "现在时"},
+      {"form": "Мы пишем", "meaning": "我们写(现在)", "suffix": "-ем", "group": "现在时"},
+      {"form": "Писал", "meaning": "写过(阳性过去)", "suffix": "-л", "group": "过去时"},
+      {"form": "Напишу", "meaning": "我会写(完成体)", "suffix": "на- + -у", "group": "完成体"},
+      {"form": "Пиши!", "meaning": "写!(命令)", "suffix": "-и", "group": "命令式"}
+    ]
+  },
+  {
+    "id": "15", "word": "Хлеб", "meaningCN": "面包", "pronunciation": "khlyeb",
+    "example": "Дайте хлеб, пожалуйста.", "exampleMeaning": "请给我面包。",
+    "category": "饮食", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Хлеб", "meaning": "面包(主格)", "suffix": "", "group": "格变化"},
+      {"form": "Хлеба", "meaning": "面包(属格)", "suffix": "-а", "group": "格变化"},
+      {"form": "Хлебу", "meaning": "面包(与格)", "suffix": "-у", "group": "格变化"},
+      {"form": "Хлебом", "meaning": "面包(工具格)", "suffix": "-ом", "group": "格变化"},
+      {"form": "О хлебе", "meaning": "关于面包(前置格)", "suffix": "-е", "group": "格变化"},
+      {"form": "Хлеба", "meaning": "面包(复数)", "suffix": "-а", "group": "复数"},
+      {"form": "Хлебушек", "meaning": "面包(指小表爱)", "suffix": "-ушек", "group": "指小词"}
+    ]
+  },
+  {
+    "id": "16", "word": "Вода", "meaningCN": "水", "pronunciation": "vadá",
+    "example": "Дайте воду, пожалуйста.", "exampleMeaning": "请给我水。",
+    "category": "饮食", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Вода", "meaning": "水(主格)", "suffix": "", "group": "格变化"},
+      {"form": "Воды", "meaning": "水(属格)", "suffix": "-ы", "group": "格变化"},
+      {"form": "Воде", "meaning": "水(与格)", "suffix": "-е", "group": "格变化"},
+      {"form": "Воду", "meaning": "水(宾格)", "suffix": "-у", "group": "格变化"},
+      {"form": "Водой", "meaning": "水(工具格)", "suffix": "-ой", "group": "格变化"},
+      {"form": "О воде", "meaning": "关于水(前置格)", "suffix": "-е", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "17", "word": "Чай", "meaningCN": "茶", "pronunciation": "chay",
+    "example": "Я люблю чай.", "exampleMeaning": "我喜欢茶。",
+    "category": "饮食", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Чай", "meaning": "茶(主格)", "suffix": "", "group": "格变化"},
+      {"form": "Чая", "meaning": "茶(属格)", "suffix": "-я", "group": "格变化"},
+      {"form": "Чаю", "meaning": "茶(与格)", "suffix": "-ю", "group": "格变化"},
+      {"form": "Чаем", "meaning": "茶(工具格)", "suffix": "-ем", "group": "格变化"},
+      {"form": "О чае", "meaning": "关于茶(前置格)", "suffix": "-е", "group": "格变化"},
+      {"form": "Чайник", "meaning": "茶壶", "suffix": "-ник", "group": "派生词"},
+      {"form": "Чаёк", "meaning": "茶(指小表爱)", "suffix": "-ёк", "group": "指小词"}
+    ]
+  },
+  {
+    "id": "18", "word": "Любовь", "meaningCN": "爱", "pronunciation": "lyubóv'",
+    "example": "Я тебя люблю.", "exampleMeaning": "我爱你。",
+    "category": "感情表达", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "Любовь", "meaning": "爱(名词主格)", "suffix": "", "group": "名词变格"},
+      {"form": "Любви", "meaning": "爱(属格/与格/前置格)", "suffix": "-ви", "group": "名词变格"},
+      {"form": "Любовью", "meaning": "爱(工具格)", "suffix": "-вью", "group": "名词变格"},
+      {"form": "Любить", "meaning": "爱(动词不定式)", "suffix": "-ть", "group": "动词变位"},
+      {"form": "Я люблю", "meaning": "我爱(现在)", "suffix": "-лю", "group": "动词变位"},
+      {"form": "Ты любишь", "meaning": "你爱(现在)", "suffix": "-ишь", "group": "动词变位"},
+      {"form": "Он любит", "meaning": "他爱(现在)", "suffix": "-ит", "group": "动词变位"},
+      {"form": "Любил", "meaning": "爱过(阳性过去)", "suffix": "-л", "group": "动词变位"},
+      {"form": "Любимая / Любимый", "meaning": "亲爱的(形容词)", "suffix": "-им-", "group": "形容词"}
+    ]
+  },
+  {
+    "id": "19", "word": "Сегодня", "meaningCN": "今天", "pronunciation": "sivódnya",
+    "example": "Сегодня хорошая погода.", "exampleMeaning": "今天天气好。",
+    "category": "时间日期", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Сегодня", "meaning": "今天", "suffix": "", "group": "基本形式"},
+      {"form": "Завтра", "meaning": "明天", "suffix": "", "group": "时间序列"},
+      {"form": "Вчера", "meaning": "昨天", "suffix": "", "group": "时间序列"},
+      {"form": "Сейчас", "meaning": "现在", "suffix": "", "group": "时间序列"},
+      {"form": "Сегодняшний", "meaning": "今天的(形容词)", "suffix": "-шний", "group": "形容词化"}
+    ]
+  },
+  {
+    "id": "20", "word": "Сколько", "meaningCN": "多少", "pronunciation": "skól'ka",
+    "example": "Сколько стоит?", "exampleMeaning": "多少钱？",
+    "category": "疑问词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Сколько", "meaning": "多少(数量)", "suffix": "", "group": "基本形式"},
+      {"form": "Сколько стоит?", "meaning": "多少钱?", "suffix": "+ стоит", "group": "短语"},
+      {"form": "Скольких", "meaning": "多少(属格/宾格)", "suffix": "-их", "group": "格变化"},
+      {"form": "Скольким", "meaning": "多少(与格)", "suffix": "-им", "group": "格变化"},
+      {"form": "Где", "meaning": "哪里", "suffix": "", "group": "疑问词"},
+      {"form": "Куда", "meaning": "去哪里", "suffix": "", "group": "疑问词"},
+      {"form": "Когда", "meaning": "什么时候", "suffix": "", "group": "疑问词"},
+      {"form": "Почему", "meaning": "为什么", "suffix": "", "group": "疑问词"}
+    ]
+  }
+]

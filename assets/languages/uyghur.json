@@ -1,0 +1,700 @@
+[
+  {
+    "id": "1", "word": "ئوقۇماق", "meaningCN": "读/学习", "pronunciation": "oqumaq",
+    "example": "مەن كىتاب ئوقۇيمەن", "exampleMeaning": "我读书。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئوقۇماق", "meaning": "读(动名词)", "suffix": "-ماق", "group": "基本形式"},
+      {"form": "ئوقۇ", "meaning": "读(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئوقۇيمەن", "meaning": "我读", "suffix": "-ي + مەن", "group": "人称变化"},
+      {"form": "ئوقۇيسەن", "meaning": "你读", "suffix": "-ي + سەن", "group": "人称变化"},
+      {"form": "ئوقۇيسىز", "meaning": "您读", "suffix": "-ي + سىز", "group": "人称变化"},
+      {"form": "ئوقۇيدۇ", "meaning": "他/她读", "suffix": "-ي + دۇ", "group": "人称变化"},
+      {"form": "ئوقۇيمىز", "meaning": "我们读", "suffix": "-ي + مىز", "group": "人称变化"},
+      {"form": "ئوقۇيدى", "meaning": "读了(过去)", "suffix": "-دى", "group": "时态变化"},
+      {"form": "ئوقۇغان", "meaning": "读过(完成)", "suffix": "-غان", "group": "时态变化"},
+      {"form": "ئوقۇيدىغان", "meaning": "将要读(将来)", "suffix": "-ي + دىغان", "group": "时态变化"},
+      {"form": "ئوقۇۋاتىدۇ", "meaning": "正在读(进行)", "suffix": "-ۋات + ىدۇ", "group": "时态变化"},
+      {"form": "ئوقۇغۇچى", "meaning": "学生", "suffix": "-غۇچى", "group": "派生词"},
+      {"form": "ئوقۇتقۇچى", "meaning": "教师", "suffix": "-ت + قۇچى", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "2", "word": "كەلمەك", "meaningCN": "来", "pronunciation": "kelmek",
+    "example": "بۇياققا كېلىڭ", "exampleMeaning": "请过来。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "كەلمەك", "meaning": "来(动名词)", "suffix": "-مەك", "group": "基本形式"},
+      {"form": "كەل", "meaning": "来(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "كېلىمەن", "meaning": "我来", "suffix": "-ى + مەن", "group": "人称变化"},
+      {"form": "كېلىسەن", "meaning": "你来", "suffix": "-ى + سەن", "group": "人称变化"},
+      {"form": "كېلىسىز", "meaning": "您来", "suffix": "-ى + سىز", "group": "人称变化"},
+      {"form": "كېلىدۇ", "meaning": "他/她来", "suffix": "-ى + دۇ", "group": "人称变化"},
+      {"form": "كېلىمىز", "meaning": "我们来", "suffix": "-ى + مىز", "group": "人称变化"},
+      {"form": "كەلدى", "meaning": "来了(过去)", "suffix": "-دى", "group": "时态变化"},
+      {"form": "كەلگەن", "meaning": "来过(完成)", "suffix": "-گەن", "group": "时态变化"},
+      {"form": "كېلىدىغان", "meaning": "将要来(将来)", "suffix": "-ى + دىغان", "group": "时态变化"},
+      {"form": "كېلىۋاتىدۇ", "meaning": "正在来(进行)", "suffix": "-ۋات + ىدۇ", "group": "时态变化"},
+      {"form": "كېلىڭ", "meaning": "请来(祈使)", "suffix": "-ىڭ", "group": "命令式"},
+      {"form": "كەلمىدى", "meaning": "没来(否定过去)", "suffix": "-مى + دى", "group": "否定式"}
+    ]
+  },
+  {
+    "id": "3", "word": "بارماق", "meaningCN": "去", "pronunciation": "barmaq",
+    "example": "مەن بازارغا بارىمەن", "exampleMeaning": "我去巴扎。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "بارماق", "meaning": "去(动名词)", "suffix": "-ماق", "group": "基本形式"},
+      {"form": "بار", "meaning": "去(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "بارىمەن", "meaning": "我去", "suffix": "-ى + مەن", "group": "人称变化"},
+      {"form": "بارىسىز", "meaning": "您去", "suffix": "-ى + سىز", "group": "人称变化"},
+      {"form": "بارىدۇ", "meaning": "他/她去", "suffix": "-ى + دۇ", "group": "人称变化"},
+      {"form": "باردى", "meaning": "去了(过去)", "suffix": "-دى", "group": "时态变化"},
+      {"form": "بارغان", "meaning": "去过(完成)", "suffix": "-غان", "group": "时态变化"},
+      {"form": "بېرىڭ", "meaning": "请去(祈使)", "suffix": "变异", "group": "命令式"}
+    ]
+  },
+  {
+    "id": "4", "word": "يازماق", "meaningCN": "写", "pronunciation": "yazmaq",
+    "example": "خەت يېزىڭ", "exampleMeaning": "请写信。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "يازماق", "meaning": "写(动名词)", "suffix": "-ماق", "group": "基本形式"},
+      {"form": "ياز", "meaning": "写(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "يېزىمەن", "meaning": "我写", "suffix": "-ى + مەن", "group": "人称变化"},
+      {"form": "يېزىسەن", "meaning": "你写", "suffix": "-ى + سەن", "group": "人称变化"},
+      {"form": "يېزىسىز", "meaning": "您写", "suffix": "-ى + سىز", "group": "人称变化"},
+      {"form": "يېزىدۇ", "meaning": "他/她写", "suffix": "-ى + دۇ", "group": "人称变化"},
+      {"form": "يازدى", "meaning": "写了(过去)", "suffix": "-دى", "group": "时态变化"},
+      {"form": "يازغان", "meaning": "写过(完成)", "suffix": "-غان", "group": "时态变化"},
+      {"form": "يېزىڭ", "meaning": "请写(祈使)", "suffix": "-ىڭ", "group": "命令式"}
+    ]
+  },
+  {
+    "id": "5", "word": "ئىچمەك", "meaningCN": "喝", "pronunciation": "ichmek",
+    "example": "چاي ئىچىڭ", "exampleMeaning": "请喝茶。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئىچمەك", "meaning": "喝(动名词)", "suffix": "-مەك", "group": "基本形式"},
+      {"form": "ئىچ", "meaning": "喝(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئىچىمەن", "meaning": "我喝", "suffix": "-ى + مەن", "group": "人称变化"},
+      {"form": "ئىچىسىز", "meaning": "您喝", "suffix": "-ى + سىز", "group": "人称变化"},
+      {"form": "ئىچىدۇ", "meaning": "他/她喝", "suffix": "-ى + دۇ", "group": "人称变化"},
+      {"form": "ئىچتى", "meaning": "喝了(过去)", "suffix": "-تى", "group": "时态变化"},
+      {"form": "ئىچكەن", "meaning": "喝过(完成)", "suffix": "-كەن", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "6", "word": "يېمەك", "meaningCN": "吃", "pronunciation": "yémek",
+    "example": "تاماق يەيلى", "exampleMeaning": "吃饭吧。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "يېمەك", "meaning": "吃(动名词)", "suffix": "-مەك", "group": "基本形式"},
+      {"form": "يە", "meaning": "吃(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "يەيمەن", "meaning": "我吃", "suffix": "-ي + مەن", "group": "人称变化"},
+      {"form": "يەيسىز", "meaning": "您吃", "suffix": "-ي + سىز", "group": "人称变化"},
+      {"form": "يەيدۇ", "meaning": "他/她吃", "suffix": "-ي + دۇ", "group": "人称变化"},
+      {"form": "يېدى", "meaning": "吃了(过去)", "suffix": "-دى", "group": "时态变化"},
+      {"form": "يېگەن", "meaning": "吃过(完成)", "suffix": "-گەن", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "7", "word": "كۆرمەك", "meaningCN": "看/见", "pronunciation": "körmek",
+    "example": "سىزنى كۆرگىنىمگە خۇشال", "exampleMeaning": "见到您很高兴。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "كۆرمەك", "meaning": "看(动名词)", "suffix": "-مەك", "group": "基本形式"},
+      {"form": "كۆر", "meaning": "看(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "كۆرىمەن", "meaning": "我看", "suffix": "-ى + مەن", "group": "人称变化"},
+      {"form": "كۆرىسىز", "meaning": "您看", "suffix": "-ى + سىز", "group": "人称变化"},
+      {"form": "كۆرىدۇ", "meaning": "他/她看", "suffix": "-ى + دۇ", "group": "人称变化"},
+      {"form": "كۆردى", "meaning": "看了(过去)", "suffix": "-دى", "group": "时态变化"},
+      {"form": "كۆرگەن", "meaning": "看过(完成)", "suffix": "-گەن", "group": "时态变化"},
+      {"form": "كۆرۈڭ", "meaning": "请看(祈使)", "suffix": "-ۈڭ", "group": "命令式"},
+      {"form": "كۆرۈش", "meaning": "见面", "suffix": "-ۈش", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "8", "word": "دېمەك", "meaningCN": "说", "pronunciation": "démek",
+    "example": "نېمە دېدىڭىز؟", "exampleMeaning": "您说什么？",
+    "category": "常用动词", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "دېمەك", "meaning": "说(动名词)", "suffix": "-مەك", "group": "基本形式"},
+      {"form": "دە", "meaning": "说(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "دەيمەن", "meaning": "我说", "suffix": "-ي + مەن", "group": "人称变化"},
+      {"form": "دەيسىز", "meaning": "您说", "suffix": "-ي + سىز", "group": "人称变化"},
+      {"form": "دەيدۇ", "meaning": "他/她说", "suffix": "-ي + دۇ", "group": "人称变化"},
+      {"form": "دېدى", "meaning": "说了(过去)", "suffix": "-دى", "group": "时态变化"},
+      {"form": "دېگەن", "meaning": "说过(完成)", "suffix": "-گەن", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "9", "word": "بەرمەك", "meaningCN": "给", "pronunciation": "bermek",
+    "example": "ماڭا بېرىڭ", "exampleMeaning": "请给我。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "بەرمەك", "meaning": "给(动名词)", "suffix": "-مەك", "group": "基本形式"},
+      {"form": "بەر", "meaning": "给(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "بېرىمەن", "meaning": "我给", "suffix": "-ى + مەن", "group": "人称变化"},
+      {"form": "بېرىسىز", "meaning": "您给", "suffix": "-ى + سىز", "group": "人称变化"},
+      {"form": "بېرىدۇ", "meaning": "他/她给", "suffix": "-ى + دۇ", "group": "人称变化"},
+      {"form": "بەردى", "meaning": "给了(过去)", "suffix": "-دى", "group": "时态变化"},
+      {"form": "بەرگەن", "meaning": "给过(完成)", "suffix": "-گەن", "group": "时态变化"},
+      {"form": "بېرىڭ", "meaning": "请给(祈使)", "suffix": "-ىڭ", "group": "命令式"}
+    ]
+  },
+  {
+    "id": "10", "word": "ئاڭلىماق", "meaningCN": "听", "pronunciation": "anglimaq",
+    "example": "مېنى ئاڭلاڭ", "exampleMeaning": "请听我说。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئاڭلىماق", "meaning": "听(动名词)", "suffix": "-ماق", "group": "基本形式"},
+      {"form": "ئاڭلا", "meaning": "听(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئاڭلايمەن", "meaning": "我听", "suffix": "-ي + مەن", "group": "人称变化"},
+      {"form": "ئاڭلايسىز", "meaning": "您听", "suffix": "-ي + سىز", "group": "人称变化"},
+      {"form": "ئاڭلىدى", "meaning": "听了(过去)", "suffix": "-دى", "group": "时态变化"},
+      {"form": "ئاڭلاڭ", "meaning": "请听(祈使)", "suffix": "-ڭ", "group": "命令式"}
+    ]
+  },
+  {
+    "id": "11", "word": "بىلمەك", "meaningCN": "知道/会", "pronunciation": "bilmek",
+    "example": "ئۇيغۇرچە بىلەمسىز؟", "exampleMeaning": "您会维吾尔语吗？",
+    "category": "常用动词", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "بىلمەك", "meaning": "知道(动名词)", "suffix": "-مەك", "group": "基本形式"},
+      {"form": "بىل", "meaning": "知道(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "بىلىمەن", "meaning": "我知道", "suffix": "-ى + مەن", "group": "人称变化"},
+      {"form": "بىلىسىز", "meaning": "您知道", "suffix": "-ى + سىز", "group": "人称变化"},
+      {"form": "بىلىدۇ", "meaning": "他/她知道", "suffix": "-ى + دۇ", "group": "人称变化"},
+      {"form": "بىلدى", "meaning": "知道了(过去)", "suffix": "-دى", "group": "时态变化"},
+      {"form": "بىلمەيدۇ", "meaning": "不知道(否定)", "suffix": "-مەي + دۇ", "group": "否定式"}
+    ]
+  },
+  {
+    "id": "12", "word": "ئىشلىمەك", "meaningCN": "工作/做", "pronunciation": "ishlimek",
+    "example": "نەدە ئىشلەيسىز؟", "exampleMeaning": "您在哪里工作？",
+    "category": "常用动词", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "ئىشلىمەك", "meaning": "工作(动名词)", "suffix": "-مەك", "group": "基本形式"},
+      {"form": "ئىشلە", "meaning": "工作(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئىشلەيمەن", "meaning": "我工作", "suffix": "-ي + مەن", "group": "人称变化"},
+      {"form": "ئىشلەيسىز", "meaning": "您工作", "suffix": "-ي + سىز", "group": "人称变化"},
+      {"form": "ئىشلىدى", "meaning": "工作了(过去)", "suffix": "-دى", "group": "时态变化"},
+      {"form": "ئىشلىگەن", "meaning": "工作过(完成)", "suffix": "-گەن", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "13", "word": "ئوينىماق", "meaningCN": "玩", "pronunciation": "oynimaq",
+    "example": "بالىلار ئويناۋاتىدۇ", "exampleMeaning": "孩子们在玩。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئوينىماق", "meaning": "玩(动名词)", "suffix": "-ماق", "group": "基本形式"},
+      {"form": "ئوينا", "meaning": "玩(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئوينايمەن", "meaning": "我玩", "suffix": "-ي + مەن", "group": "人称变化"},
+      {"form": "ئوينىدى", "meaning": "玩了(过去)", "suffix": "-دى", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "14", "word": "ئۇخلىماق", "meaningCN": "睡觉", "pronunciation": "uxlimaq",
+    "example": "ئۇخلىغىلى بارىمەن", "exampleMeaning": "我去睡觉了。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئۇخلىماق", "meaning": "睡(动名词)", "suffix": "-ماق", "group": "基本形式"},
+      {"form": "ئۇخلا", "meaning": "睡(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئۇخلايمەن", "meaning": "我睡", "suffix": "-ي + مەن", "group": "人称变化"},
+      {"form": "ئۇخلىدى", "meaning": "睡了(过去)", "suffix": "-دى", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "15", "word": "سۆيمەك", "meaningCN": "爱", "pronunciation": "söymek",
+    "example": "مەن سىزنى سۆيىمەن", "exampleMeaning": "我爱你。",
+    "category": "常用动词", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "سۆيمەك", "meaning": "爱(动名词)", "suffix": "-مەك", "group": "基本形式"},
+      {"form": "سۆي", "meaning": "爱(词根)", "suffix": "词根", "group": "基本形式"},
+      {"form": "سۆيىمەن", "meaning": "我爱", "suffix": "-ى + مەن", "group": "人称变化"},
+      {"form": "سۆيىسىز", "meaning": "您爱", "suffix": "-ى + سىز", "group": "人称变化"},
+      {"form": "سۆيىدۇ", "meaning": "他/她爱", "suffix": "-ى + دۇ", "group": "人称变化"},
+      {"form": "سۆيدى", "meaning": "爱过(过去)", "suffix": "-دى", "group": "时态变化"},
+      {"form": "سۆيگۈ", "meaning": "爱情", "suffix": "-گۈ", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "16", "word": "مەن", "meaningCN": "我", "pronunciation": "men",
+    "example": "مەن ئوقۇغۇچى", "exampleMeaning": "我是学生。",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "مەن", "meaning": "我(主格)", "suffix": "主格", "group": "格变化"},
+      {"form": "مېنىڭ", "meaning": "我的", "suffix": "-نىڭ", "group": "格变化"},
+      {"form": "ماڭا", "meaning": "向我", "suffix": "-غا", "group": "格变化"},
+      {"form": "مېنى", "meaning": "把我", "suffix": "-نى", "group": "格变化"},
+      {"form": "مەندە", "meaning": "在我这里", "suffix": "-دە", "group": "格变化"},
+      {"form": "مەندىن", "meaning": "从我", "suffix": "-دىن", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "17", "word": "سەن", "meaningCN": "你(普通)", "pronunciation": "sen",
+    "example": "سەن قەيەردىن؟", "exampleMeaning": "你来自哪里？",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "سەن", "meaning": "你(主格)", "suffix": "主格", "group": "格变化"},
+      {"form": "سېنىڭ", "meaning": "你的", "suffix": "-ىڭ", "group": "格变化"},
+      {"form": "ساڭا", "meaning": "向你", "suffix": "-غا", "group": "格变化"},
+      {"form": "سېنى", "meaning": "把你", "suffix": "-نى", "group": "格变化"},
+      {"form": "سەندە", "meaning": "在你那里", "suffix": "-دە", "group": "格变化"},
+      {"form": "سەندىن", "meaning": "从你", "suffix": "-دىن", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "18", "word": "سىز", "meaningCN": "您(尊称)", "pronunciation": "siz",
+    "example": "سىز قەيەردىن؟", "exampleMeaning": "您来自哪里？",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "سىز", "meaning": "您(主格)", "suffix": "主格", "group": "格变化"},
+      {"form": "سىزنىڭ", "meaning": "您的", "suffix": "-نىڭ", "group": "格变化"},
+      {"form": "سىزگە", "meaning": "向您", "suffix": "-گە", "group": "格变化"},
+      {"form": "سىزنى", "meaning": "把您", "suffix": "-نى", "group": "格变化"},
+      {"form": "سىزدە", "meaning": "在您那里", "suffix": "-دە", "group": "格变化"},
+      {"form": "سىزدىن", "meaning": "从您", "suffix": "-دىن", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "19", "word": "ئۇ", "meaningCN": "他/她/它", "pronunciation": "u",
+    "example": "ئۇ دوختۇر", "exampleMeaning": "他/她是医生。",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئۇ", "meaning": "他(主格)", "suffix": "主格", "group": "格变化"},
+      {"form": "ئۇنىڭ", "meaning": "他的", "suffix": "-نىڭ", "group": "格变化"},
+      {"form": "ئۇنىڭغا", "meaning": "向他", "suffix": "-غا", "group": "格变化"},
+      {"form": "ئۇنى", "meaning": "把他", "suffix": "-نى", "group": "格变化"},
+      {"form": "ئۇنىڭدا", "meaning": "在他那里", "suffix": "-دا", "group": "格变化"},
+      {"form": "ئۇنىڭدىن", "meaning": "从他", "suffix": "-دىن", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "20", "word": "بىز", "meaningCN": "我们", "pronunciation": "biz",
+    "example": "بىز بىللە بارايلى", "exampleMeaning": "我们一起去吧。",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "بىز", "meaning": "我们(主格)", "suffix": "主格", "group": "格变化"},
+      {"form": "بىزنىڭ", "meaning": "我们的", "suffix": "-نىڭ", "group": "格变化"},
+      {"form": "بىزگە", "meaning": "向我们", "suffix": "-گە", "group": "格变化"},
+      {"form": "بىزنى", "meaning": "把我们", "suffix": "-نى", "group": "格变化"},
+      {"form": "بىزدە", "meaning": "在我们这里", "suffix": "-دە", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "21", "word": "سىلەر", "meaningCN": "你们", "pronunciation": "siler",
+    "example": "سىلەر قەيەرگە بارىسىلەر؟", "exampleMeaning": "你们去哪里？",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "سىلەر", "meaning": "你们(主格)", "suffix": "主格", "group": "格变化"},
+      {"form": "سىلەرنىڭ", "meaning": "你们的", "suffix": "-نىڭ", "group": "格变化"},
+      {"form": "سىلەرگە", "meaning": "向你们", "suffix": "-گە", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "22", "word": "ئۇلار", "meaningCN": "他们", "pronunciation": "ular",
+    "example": "ئۇلار ئوقۇغۇچى", "exampleMeaning": "他们是学生。",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئۇلار", "meaning": "他们(主格)", "suffix": "主格", "group": "格变化"},
+      {"form": "ئۇلارنىڭ", "meaning": "他们的", "suffix": "-نىڭ", "group": "格变化"},
+      {"form": "ئۇلارغا", "meaning": "向他们", "suffix": "-غا", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "23", "word": "دوس", "meaningCN": "朋友", "pronunciation": "dos",
+    "example": "ئۇ مېنىڭ دوستۇم", "exampleMeaning": "他是我的朋友。",
+    "category": "名词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "دوس", "meaning": "朋友", "suffix": "词根", "group": "属人变化"},
+      {"form": "دوستۇم", "meaning": "我的朋友", "suffix": "-ۇم", "group": "属人变化"},
+      {"form": "دوستۇڭ", "meaning": "你的朋友", "suffix": "-ۇڭ", "group": "属人变化"},
+      {"form": "دوستىڭىز", "meaning": "您的朋友", "suffix": "-ىڭىز", "group": "属人变化"},
+      {"form": "دوستى", "meaning": "他的朋友", "suffix": "-ى", "group": "属人变化"},
+      {"form": "دوسلار", "meaning": "朋友们", "suffix": "-لار", "group": "复数"}
+    ]
+  },
+  {
+    "id": "24", "word": "ماكتەپ", "meaningCN": "学校", "pronunciation": "mektep",
+    "example": "ماكتەپكە باردىم", "exampleMeaning": "我去学校了。",
+    "category": "名词", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "ماكتەپ", "meaning": "学校(主格)", "suffix": "主格", "group": "格变化"},
+      {"form": "ماكتەپنىڭ", "meaning": "学校的", "suffix": "-نىڭ", "group": "格变化"},
+      {"form": "ماكتەپكە", "meaning": "向学校", "suffix": "-كە", "group": "格变化"},
+      {"form": "ماكتەپنى", "meaning": "把学校", "suffix": "-نى", "group": "格变化"},
+      {"form": "ماكتەپتە", "meaning": "在学校", "suffix": "-تە", "group": "格变化"},
+      {"form": "ماكتەپتىن", "meaning": "从学校", "suffix": "-تىن", "group": "格变化"},
+      {"form": "ماكتىپىم", "meaning": "我的学校", "suffix": "-ىم", "group": "属人变化"},
+      {"form": "ماكتەپلەر", "meaning": "学校(复数)", "suffix": "-لەر", "group": "复数"}
+    ]
+  },
+  {
+    "id": "25", "word": "ئۆي", "meaningCN": "家/房子", "pronunciation": "öy",
+    "example": "ئۆيگە قايتىمەن", "exampleMeaning": "我回家。",
+    "category": "名词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئۆي", "meaning": "家(主格)", "suffix": "主格", "group": "格变化"},
+      {"form": "ئۆينىڭ", "meaning": "家的", "suffix": "-نىڭ", "group": "格变化"},
+      {"form": "ئۆيگە", "meaning": "向家", "suffix": "-گە", "group": "格变化"},
+      {"form": "ئۆيدە", "meaning": "在家", "suffix": "-دە", "group": "格变化"},
+      {"form": "ئۆيۈم", "meaning": "我的家", "suffix": "-ۈم", "group": "属人变化"}
+    ]
+  },
+  {
+    "id": "26", "word": "كىتاب", "meaningCN": "书", "pronunciation": "kitab",
+    "example": "بۇ كىتاب ياخشى", "exampleMeaning": "这本书好。",
+    "category": "名词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "كىتاب", "meaning": "书", "suffix": "词根", "group": "基本形式"},
+      {"form": "كىتابىم", "meaning": "我的书", "suffix": "-ىم", "group": "属人变化"},
+      {"form": "كىتابىڭىز", "meaning": "您的书", "suffix": "-ىڭىز", "group": "属人变化"},
+      {"form": "كىتابلار", "meaning": "书(复数)", "suffix": "-لار", "group": "复数"}
+    ]
+  },
+  {
+    "id": "27", "word": "سۇ", "meaningCN": "水", "pronunciation": "su",
+    "example": "بىر ئىستاكان سۇ بېرىڭ", "exampleMeaning": "请给我一杯水。",
+    "category": "名词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "سۇ", "meaning": "水", "suffix": "词根", "group": "基本形式"},
+      {"form": "سۇيى", "meaning": "他的水", "suffix": "-ى", "group": "属人变化"},
+      {"form": "سۇسىز", "meaning": "无水的/干旱的", "suffix": "-سىز", "group": "否定"}
+    ]
+  },
+  {
+    "id": "28", "word": "چاي", "meaningCN": "茶", "pronunciation": "chay",
+    "example": "بىر چىنە چاي ئىچىڭ", "exampleMeaning": "请喝碗茶。",
+    "category": "饮食", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "چاي", "meaning": "茶", "suffix": "词根", "group": "基本形式"},
+      {"form": "چايخانا", "meaning": "茶馆", "suffix": "-خانا", "group": "派生词"},
+      {"form": "چايلىق", "meaning": "茶会", "suffix": "-لىق", "group": "派生词"},
+      {"form": "چېيىم", "meaning": "我的茶", "suffix": "-ىم", "group": "属人变化"}
+    ]
+  },
+  {
+    "id": "29", "word": "نان", "meaningCN": "馕/面包", "pronunciation": "nan",
+    "example": "بىر تال نان بېرىڭ", "exampleMeaning": "请给我一个馕。",
+    "category": "饮食", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "نان", "meaning": "馕", "suffix": "词根", "group": "基本形式"},
+      {"form": "نانۋاي", "meaning": "打馕师傅", "suffix": "-ۋاي", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "30", "word": "گۆش", "meaningCN": "肉", "pronunciation": "gösh",
+    "example": "قوي گۆشى ياخشى", "exampleMeaning": "羊肉好。",
+    "category": "饮食", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "گۆش", "meaning": "肉", "suffix": "词根", "group": "基本形式"},
+      {"form": "گۆشلۈك", "meaning": "肉多的", "suffix": "-لۈك", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "31", "word": "بۈگۈن", "meaningCN": "今天", "pronunciation": "bügün",
+    "example": "بۈگۈن ھاۋا ياخشى", "exampleMeaning": "今天天气好。",
+    "category": "时间日期", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "بۈگۈن", "meaning": "今天", "suffix": "词根", "group": "基本形式"},
+      {"form": "بۈگۈنكى", "meaning": "今天的", "suffix": "-كى", "group": "形容词化"},
+      {"form": "بۈگۈنگىچە", "meaning": "到今天为止", "suffix": "-گىچە", "group": "范围"}
+    ]
+  },
+  {
+    "id": "32", "word": "ئەتە", "meaningCN": "明天", "pronunciation": "ete",
+    "example": "ئەتە كۆرۈشەيلى", "exampleMeaning": "明天见。",
+    "category": "时间日期", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئەتە", "meaning": "明天", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئەتىگەن", "meaning": "早上", "suffix": "变异", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "33", "word": "تۈنۈگۈن", "meaningCN": "昨天", "pronunciation": "tünügün",
+    "example": "تۈنۈگۈن يامغۇر ياغدى", "exampleMeaning": "昨天下雨了。",
+    "category": "时间日期", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "تۈنۈگۈن", "meaning": "昨天", "suffix": "词根", "group": "基本形式"}
+    ]
+  },
+  {
+    "id": "34", "word": "ھازىر", "meaningCN": "现在", "pronunciation": "hazir",
+    "example": "ھازىر بارىمەن", "exampleMeaning": "我现在去。",
+    "category": "时间日期", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ھازىر", "meaning": "现在", "suffix": "词根", "group": "基本形式"},
+      {"form": "ھازىرقى", "meaning": "现在的/现代的", "suffix": "-قى", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "35", "word": "ياخشىمۇسىز", "meaningCN": "您好", "pronunciation": "yaxshimusiz",
+    "example": "ياخشىمۇسىز، قانداق ئەھۋالىڭىز؟", "exampleMeaning": "您好，您最近怎样？",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ياخشىمۇسىز", "meaning": "您好", "suffix": "-مۇ + -سىز", "group": "基本形式"},
+      {"form": "ياخشىمۇسەن", "meaning": "你好", "suffix": "-مۇ + -سەن", "group": "人称变化"}
+    ]
+  },
+  {
+    "id": "36", "word": "رەھمەت", "meaningCN": "谢谢", "pronunciation": "rehmet",
+    "example": "رەھمەت سىزگە", "exampleMeaning": "谢谢您。",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "رەھمەت", "meaning": "谢谢", "suffix": "词根", "group": "基本形式"},
+      {"form": "كۆپ رەھمەت", "meaning": "非常感谢", "suffix": "كۆپ +", "group": "程度"}
+    ]
+  },
+  {
+    "id": "37", "word": "خەير خوش", "meaningCN": "再见", "pronunciation": "xeyr xosh",
+    "example": "خەير خوش، كۆرۈشكىچە", "exampleMeaning": "再见，回头见。",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "خەير خوش", "meaning": "再见", "suffix": "", "group": "基本形式"},
+      {"form": "خوش ئەمىسە", "meaning": "那么再见", "suffix": "ئەمىسە", "group": "变体"}
+    ]
+  },
+  {
+    "id": "38", "word": "كەچۈرۈڭ", "meaningCN": "对不起", "pronunciation": "kechürüng",
+    "example": "كەچۈرۈڭ، كېچىكىپ قالدىم", "exampleMeaning": "对不起，我迟到了。",
+    "category": "问候礼貌", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "كەچۈرۈڭ", "meaning": "对不起", "suffix": "-ۈڭ", "group": "基本形式"},
+      {"form": "كەچۈرمەك", "meaning": "原谅", "suffix": "-مەك", "group": "动词原形"}
+    ]
+  },
+  {
+    "id": "39", "word": "خەيرلىك كەچ", "meaningCN": "晚安", "pronunciation": "xeyrlik kech",
+    "example": "خەيرلىك كەچ، ياخشى ئۇخلاڭ", "exampleMeaning": "晚安，睡个好觉。",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1, 1],
+    "variants": [
+      {"form": "خەيرلىك كەچ", "meaning": "晚安", "suffix": "", "group": "基本形式"}
+    ]
+  },
+  {
+    "id": "40", "word": "ياخشى", "meaningCN": "好", "pronunciation": "yaxshi",
+    "example": "بۈگۈن ھاۋا ياخشى", "exampleMeaning": "今天天气好。",
+    "category": "形容词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ياخشى", "meaning": "好", "suffix": "词根", "group": "基本形式"},
+      {"form": "ياخشىراق", "meaning": "比较好", "suffix": "-راق", "group": "比较级"},
+      {"form": "ياخشىلىق", "meaning": "善良", "suffix": "-لىق", "group": "派生词"},
+      {"form": "ياخشىمەن", "meaning": "我好", "suffix": "+ مەن", "group": "人称变化"},
+      {"form": "ياخشىسىز", "meaning": "您好", "suffix": "+ سىز", "group": "人称变化"}
+    ]
+  },
+  {
+    "id": "41", "word": "چوڭ", "meaningCN": "大", "pronunciation": "chong",
+    "example": "بۇ ئۆي چوڭ", "exampleMeaning": "这房子大。",
+    "category": "形容词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "چوڭ", "meaning": "大", "suffix": "词根", "group": "基本形式"},
+      {"form": "چوڭراق", "meaning": "比较大", "suffix": "-راق", "group": "比较级"},
+      {"form": "چوڭلار", "meaning": "大人们/长辈", "suffix": "-لار", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "42", "word": "كىچىك", "meaningCN": "小", "pronunciation": "kichik",
+    "example": "كىچىك بالا", "exampleMeaning": "小孩子。",
+    "category": "形容词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "كىچىك", "meaning": "小", "suffix": "词根", "group": "基本形式"},
+      {"form": "كىچىكرەك", "meaning": "比较小", "suffix": "-رەك", "group": "比较级"}
+    ]
+  },
+  {
+    "id": "43", "word": "ئىسسىق", "meaningCN": "热", "pronunciation": "issiq",
+    "example": "بۈگۈن ئىسسىق", "exampleMeaning": "今天热。",
+    "category": "形容词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئىسسىق", "meaning": "热", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئىسسىقراق", "meaning": "比较热", "suffix": "-راق", "group": "比较级"}
+    ]
+  },
+  {
+    "id": "44", "word": "سوغۇق", "meaningCN": "冷", "pronunciation": "soghuq",
+    "example": "قىشتا سوغۇق", "exampleMeaning": "冬天冷。",
+    "category": "形容词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "سوغۇق", "meaning": "冷", "suffix": "词根", "group": "基本形式"},
+      {"form": "سوغۇقراق", "meaning": "比较冷", "suffix": "-راق", "group": "比较级"}
+    ]
+  },
+  {
+    "id": "45", "word": "گۈزەل", "meaningCN": "美丽", "pronunciation": "güzel",
+    "example": "ئۈرۈمچى گۈزەل شەھەر", "exampleMeaning": "乌鲁木齐是美丽的城市。",
+    "category": "形容词", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "گۈزەل", "meaning": "美丽", "suffix": "词根", "group": "基本形式"},
+      {"form": "گۈزەللىك", "meaning": "美丽(名词)", "suffix": "-لىك", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "46", "word": "نېمە", "meaningCN": "什么", "pronunciation": "néme",
+    "example": "بۇ نېمە؟", "exampleMeaning": "这是什么？",
+    "category": "疑问词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "نېمە", "meaning": "什么", "suffix": "词根", "group": "基本形式"},
+      {"form": "نېمىشقا", "meaning": "为什么", "suffix": "-شقا", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "47", "word": "قەيەر", "meaningCN": "哪里", "pronunciation": "qeyer",
+    "example": "سىز قەيەردىن؟", "exampleMeaning": "您来自哪里？",
+    "category": "疑问词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "قەيەر", "meaning": "哪里", "suffix": "词根", "group": "基本形式"},
+      {"form": "قەيەردە", "meaning": "在哪里", "suffix": "-دە", "group": "格变化"},
+      {"form": "قەيەرگە", "meaning": "去哪里", "suffix": "-گە", "group": "格变化"},
+      {"form": "قەيەردىن", "meaning": "从哪里", "suffix": "-دىن", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "48", "word": "قانچە", "meaningCN": "多少", "pronunciation": "qanche",
+    "example": "قانچە پۇل؟", "exampleMeaning": "多少钱？",
+    "category": "疑问词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "قانچە", "meaning": "多少", "suffix": "词根", "group": "基本形式"},
+      {"form": "قانچىنچى", "meaning": "第几", "suffix": "-نچى", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "49", "word": "كىم", "meaningCN": "谁", "pronunciation": "kim",
+    "example": "بۇ كىم؟", "exampleMeaning": "这是谁？",
+    "category": "疑问词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "كىم", "meaning": "谁", "suffix": "词根", "group": "基本形式"},
+      {"form": "كىمنىڭ", "meaning": "谁的", "suffix": "-نىڭ", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "50", "word": "قانداق", "meaningCN": "怎样/如何", "pronunciation": "qandaq",
+    "example": "قانداق ئەھۋالىڭىز؟", "exampleMeaning": "您怎么样？",
+    "category": "疑问词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "قانداق", "meaning": "怎样", "suffix": "词根", "group": "基本形式"}
+    ]
+  },
+  {
+    "id": "51", "word": "بازار", "meaningCN": "巴扎/市场", "pronunciation": "bazar",
+    "example": "بازارغا بارىمەن", "exampleMeaning": "我去巴扎。",
+    "category": "地点", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "بازار", "meaning": "市场", "suffix": "词根", "group": "基本形式"},
+      {"form": "بازارغا", "meaning": "去市场", "suffix": "-غا", "group": "格变化"},
+      {"form": "بازاردا", "meaning": "在市场", "suffix": "-دا", "group": "格变化"},
+      {"form": "بازاردىن", "meaning": "从市场", "suffix": "-دىن", "group": "格变化"},
+      {"form": "بازارلار", "meaning": "市场们", "suffix": "-لار", "group": "复数"}
+    ]
+  },
+  {
+    "id": "52", "word": "دوختۇرخانا", "meaningCN": "医院", "pronunciation": "doxturxana",
+    "example": "ئۇ دوختۇرخانىدا", "exampleMeaning": "他在医院。",
+    "category": "地点", "difficulty": "medium", "tonePattern": [1],
+    "variants": [
+      {"form": "دوختۇرخانا", "meaning": "医院", "suffix": "词根", "group": "基本形式"},
+      {"form": "دوختۇرخانىغا", "meaning": "去医院", "suffix": "-غا", "group": "格变化"},
+      {"form": "دوختۇرخانىدا", "meaning": "在医院", "suffix": "-دا", "group": "格变化"},
+      {"form": "دوختۇرخانىدىن", "meaning": "从医院", "suffix": "-دىن", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "53", "word": "بانك", "meaningCN": "银行", "pronunciation": "bank",
+    "example": "بانكقا باردىم", "exampleMeaning": "我去了银行。",
+    "category": "地点", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "بانك", "meaning": "银行", "suffix": "词根", "group": "基本形式"},
+      {"form": "بانكقا", "meaning": "去银行", "suffix": "-قا", "group": "格变化"},
+      {"form": "بانكتا", "meaning": "在银行", "suffix": "-تا", "group": "格变化"}
+    ]
+  },
+  {
+    "id": "54", "word": "ئاتا", "meaningCN": "父亲", "pronunciation": "ata",
+    "example": "بۇ مېنىڭ ئاتام", "exampleMeaning": "这是我的父亲。",
+    "category": "家庭成员", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئاتا", "meaning": "父亲", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئاتام", "meaning": "我的父亲", "suffix": "-م", "group": "属人变化"},
+      {"form": "ئاتاڭ", "meaning": "你的父亲", "suffix": "-ڭ", "group": "属人变化"},
+      {"form": "ئاتىسى", "meaning": "他的父亲", "suffix": "-سى", "group": "属人变化"},
+      {"form": "ئاتىلار", "meaning": "父亲们", "suffix": "-لار", "group": "复数"}
+    ]
+  },
+  {
+    "id": "55", "word": "ئانا", "meaningCN": "母亲", "pronunciation": "ana",
+    "example": "ئانام ئۆيدە", "exampleMeaning": "我妈妈在家。",
+    "category": "家庭成员", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئانا", "meaning": "母亲", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئانام", "meaning": "我的母亲", "suffix": "-م", "group": "属人变化"},
+      {"form": "ئاناڭ", "meaning": "你的母亲", "suffix": "-ڭ", "group": "属人变化"},
+      {"form": "ئانىسى", "meaning": "他的母亲", "suffix": "-سى", "group": "属人变化"}
+    ]
+  },
+  {
+    "id": "56", "word": "بالا", "meaningCN": "孩子", "pronunciation": "bala",
+    "example": "بالا ئويناۋاتىدۇ", "exampleMeaning": "孩子正在玩。",
+    "category": "家庭成员", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "بالا", "meaning": "孩子", "suffix": "词根", "group": "基本形式"},
+      {"form": "بالىم", "meaning": "我的孩子", "suffix": "-ىم", "group": "属人变化"},
+      {"form": "بالىلار", "meaning": "孩子们", "suffix": "-لار", "group": "复数"}
+    ]
+  },
+  {
+    "id": "57", "word": "بىر", "meaningCN": "一", "pronunciation": "bir",
+    "example": "بىر كىتاب", "exampleMeaning": "一本书。",
+    "category": "数字", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "بىر", "meaning": "一", "suffix": "词根", "group": "基本形式"},
+      {"form": "بىرىنچى", "meaning": "第一", "suffix": "-ىنچى", "group": "序数"}
+    ]
+  },
+  {
+    "id": "58", "word": "ئىككى", "meaningCN": "二", "pronunciation": "ikki",
+    "example": "ئىككى دوست", "exampleMeaning": "两个朋友。",
+    "category": "数字", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئىككى", "meaning": "二", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئىككىنچى", "meaning": "第二", "suffix": "-نچى", "group": "序数"}
+    ]
+  },
+  {
+    "id": "59", "word": "ئۈچ", "meaningCN": "三", "pronunciation": "üch",
+    "example": "ئۈچ كۈن", "exampleMeaning": "三天。",
+    "category": "数字", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئۈچ", "meaning": "三", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئۈچىنچى", "meaning": "第三", "suffix": "-ىنچى", "group": "序数"}
+    ]
+  },
+  {
+    "id": "60", "word": "ئاق", "meaningCN": "白色", "pronunciation": "aq",
+    "example": "ئاق ماشىنا", "exampleMeaning": "白色汽车。",
+    "category": "颜色", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "ئاق", "meaning": "白色", "suffix": "词根", "group": "基本形式"},
+      {"form": "ئاقراق", "meaning": "比较白", "suffix": "-راق", "group": "比较级"}
+    ]
+  },
+  {
+    "id": "61", "word": "قارا", "meaningCN": "黑色", "pronunciation": "qara",
+    "example": "قارا كىتاب", "exampleMeaning": "黑色书。",
+    "category": "颜色", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "قارا", "meaning": "黑色", "suffix": "词根", "group": "基本形式"},
+      {"form": "قاراراق", "meaning": "更黑", "suffix": "-راق", "group": "比较级"}
+    ]
+  },
+  {
+    "id": "62", "word": "كۆك", "meaningCN": "蓝色", "pronunciation": "kök",
+    "example": "كۆك ئاسمان", "exampleMeaning": "蓝天。",
+    "category": "颜色", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "كۆك", "meaning": "蓝色", "suffix": "词根", "group": "基本形式"},
+      {"form": "كۆكرەك", "meaning": "更蓝", "suffix": "-رەك", "group": "比较级"}
+    ]
+  }
+]
