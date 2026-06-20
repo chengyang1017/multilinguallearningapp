@@ -7,7 +7,7 @@ import '../widgets/search_bar.dart' as app_search;
 import '../widgets/category_filter.dart';
 import '../widgets/word_detail_sheet.dart';
 
-const int buildNumber = 2;
+const int buildNumber = 3;
 
 enum SortMode { defaultOrder, alphabetical, difficulty, category }
 
