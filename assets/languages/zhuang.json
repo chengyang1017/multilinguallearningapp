@@ -1,0 +1,159 @@
+[
+  {
+    "id": "1", "word": "Mwngz ndei", "meaningCN": "你好", "pronunciation": "mung nday",
+    "example": "Mwngz ndei, mwngz gwn haeux gvaq lai?", "exampleMeaning": "你好，你吃饭了吗？",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1, 1],
+    "variants": [
+      {"form": "Mwngz ndei", "meaning": "你好", "suffix": "", "group": "基本形式"},
+      {"form": "Gyoengq beixnuengx ndei", "meaning": "大家好", "suffix": "", "group": "问候语"}
+    ]
+  },
+  {
+    "id": "2", "word": "Docih", "meaningCN": "谢谢", "pronunciation": "do-chee",
+    "example": "Docih mwngz.", "exampleMeaning": "谢谢你。",
+    "category": "问候礼貌", "difficulty": "easy", "tonePattern": [1, 1],
+    "variants": [
+      {"form": "Docih", "meaning": "谢谢", "suffix": "", "group": "基本形式"},
+      {"form": "Docih lai", "meaning": "非常感谢", "suffix": " + lai", "group": "程度"}
+    ]
+  },
+  {
+    "id": "3", "word": "Doiq mbouj hwnj", "meaningCN": "对不起", "pronunciation": "doy mbou hen",
+    "example": "Doiq mbouj hwnj, gou daeuj lo.", "exampleMeaning": "对不起，我迟到了。",
+    "category": "问候礼貌", "difficulty": "medium", "tonePattern": [1, 1, 1],
+    "variants": [
+      {"form": "Doiq mbouj hwnj", "meaning": "对不起", "suffix": "", "group": "基本形式"},
+      {"form": "Doiq mbouj cawh", "meaning": "不好意思", "suffix": "", "group": "口语"}
+    ]
+  },
+  {
+    "id": "4", "word": "Ngoenzneix daengz gizneix", "meaningCN": "再见", "pronunciation": "ngoen-nay dang kee-nay",
+    "example": "Ngoenzneix daengz gizneix, ngoenzcog raen.",
+    "exampleMeaning": "再见，明天见。",
+    "category": "问候礼貌", "difficulty": "hard", "tonePattern": [1, 1, 1, 1],
+    "variants": [
+      {"form": "Ngoenzneix daengz gizneix", "meaning": "再见(正式)", "suffix": "", "group": "正式"},
+      {"form": "Ngoenzcog raen", "meaning": "明天见", "suffix": "", "group": "口语"}
+    ]
+  },
+  {
+    "id": "5", "word": "Gou", "meaningCN": "我", "pronunciation": "go",
+    "example": "Gou dwg Bouxcuengh.", "exampleMeaning": "我是壮族人。",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Gou", "meaning": "我", "suffix": "", "group": "基本形式"},
+      {"form": "Mwngz", "meaning": "你", "suffix": "", "group": "人称"},
+      {"form": "De", "meaning": "他/她", "suffix": "", "group": "人称"},
+      {"form": "Raeuz", "meaning": "我们(包括你)", "suffix": "", "group": "人称"},
+      {"form": "Dou", "meaning": "我们(不包括你)", "suffix": "", "group": "人称"},
+      {"form": "Sou", "meaning": "你们", "suffix": "", "group": "人称"},
+      {"form": "Gyoengqde", "meaning": "他们", "suffix": "", "group": "人称"}
+    ]
+  },
+  {
+    "id": "6", "word": "Mwngz", "meaningCN": "你", "pronunciation": "mung",
+    "example": "Mwngz youq gizlawz?", "exampleMeaning": "你在哪里？",
+    "category": "人称代词", "difficulty": "easy", "tonePattern": [1],
+    "variants": []
+  },
+  {
+    "id": "7", "word": "Gwn", "meaningCN": "吃", "pronunciation": "gun",
+    "example": "Gou gwn haeux.", "exampleMeaning": "我吃饭。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Gwn", "meaning": "吃", "suffix": "", "group": "基本形式"},
+      {"form": "Gwn haeux", "meaning": "吃饭", "suffix": " + haeux", "group": "搭配"},
+      {"form": "Gwn caeuz", "meaning": "吃晚饭", "suffix": " + caeuz", "group": "搭配"},
+      {"form": "Gwn ngaiz", "meaning": "吃早饭", "suffix": " + ngaiz", "group": "搭配"},
+      {"form": "Gwn ringz", "meaning": "吃午饭", "suffix": " + ringz", "group": "搭配"},
+      {"form": "Gwn gvaq", "meaning": "吃过了", "suffix": " + gvaq", "group": "时态变化"},
+      {"form": "Yaek gwn", "meaning": "将要吃", "suffix": "yaek +", "group": "时态变化"},
+      {"form": "Cingq gwn", "meaning": "正在吃", "suffix": "cingq +", "group": "时态变化"},
+      {"form": "Mbouj gwn", "meaning": "不吃", "suffix": "mbouj +", "group": "否定式"}
+    ]
+  },
+  {
+    "id": "8", "word": "Ndwnj", "meaningCN": "喝", "pronunciation": "ndun",
+    "example": "Gou ndwnj raemx.", "exampleMeaning": "我喝水。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Ndwnj", "meaning": "喝", "suffix": "", "group": "基本形式"},
+      {"form": "Ndwnj laeuj", "meaning": "喝酒", "suffix": " + laeuj", "group": "搭配"},
+      {"form": "Ndwnj gvaq", "meaning": "喝过了", "suffix": " + gvaq", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "9", "word": "Bae", "meaningCN": "去/走", "pronunciation": "bai",
+    "example": "Gou bae haw.", "exampleMeaning": "我去集市。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Bae", "meaning": "去", "suffix": "", "group": "基本形式"},
+      {"form": "Bae gvaq", "meaning": "去过了", "suffix": " + gvaq", "group": "时态变化"},
+      {"form": "Cingq bae", "meaning": "正在去", "suffix": "cingq +", "group": "时态变化"}
+    ]
+  },
+  {
+    "id": "10", "word": "Ninz", "meaningCN": "睡觉", "pronunciation": "nin",
+    "example": "Gou bae ninz lo.", "exampleMeaning": "我去睡觉了。",
+    "category": "常用动词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Ninz", "meaning": "睡觉", "suffix": "", "group": "基本形式"},
+      {"form": "Ninz ndaek", "meaning": "睡着了", "suffix": " + ndaek", "group": "状态"}
+    ]
+  },
+  {
+    "id": "11", "word": "Haeux", "meaningCN": "米饭/粮食", "pronunciation": "hau",
+    "example": "Gou gwn haeux.", "exampleMeaning": "我吃饭。",
+    "category": "饮食", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Haeux", "meaning": "米饭", "suffix": "", "group": "基本形式"},
+      {"form": "Haeuxcuk", "meaning": "粥", "suffix": "-cuk", "group": "派生词"},
+      {"form": "Haeuxfaengj", "meaning": "粽子", "suffix": "-faengj", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "12", "word": "Raemx", "meaningCN": "水", "pronunciation": "ram",
+    "example": "Gou ndwnj raemx.", "exampleMeaning": "我喝水。",
+    "category": "饮食", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Raemx", "meaning": "水", "suffix": "", "group": "基本形式"},
+      {"form": "Raemxgoenj", "meaning": "开水", "suffix": "-goenj", "group": "派生词"},
+      {"form": "Raemxndwj", "meaning": "冷水", "suffix": "-ndwj", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "13", "word": "Ranz", "meaningCN": "家/房子", "pronunciation": "ran",
+    "example": "Gou ma ranz.", "exampleMeaning": "我回家。",
+    "category": "名词", "difficulty": "easy", "tonePattern": [1],
+    "variants": [
+      {"form": "Ranz", "meaning": "家", "suffix": "", "group": "基本形式"},
+      {"form": "Ranz gou", "meaning": "我的家", "suffix": " + gou", "group": "属人变化"},
+      {"form": "Ranz mwngz", "meaning": "你的家", "suffix": " + mwngz", "group": "属人变化"},
+      {"form": "Ranzhag", "meaning": "学校", "suffix": "-hag", "group": "派生词"}
+    ]
+  },
+  {
+    "id": "14", "word": "Ngoenzneix", "meaningCN": "今天", "pronunciation": "ngoen-nay",
+    "example": "Ngoenzneix ndei.", "exampleMeaning": "今天好。",
+    "category": "时间日期", "difficulty": "easy", "tonePattern": [1, 1],
+    "variants": [
+      {"form": "Ngoenzneix", "meaning": "今天", "suffix": "", "group": "基本形式"},
+      {"form": "Ngoenzcog", "meaning": "明天", "suffix": "", "group": "时间序列"},
+      {"form": "Ngoenzlwenz", "meaning": "昨天", "suffix": "", "group": "时间序列"},
+      {"form": "Seizneix", "meaning": "现在", "suffix": "", "group": "时间序列"}
+    ]
+  },
+  {
+    "id": "15", "word": "Geijlai", "meaningCN": "多少", "pronunciation": "gay-lai",
+    "example": "Geijlai cienz?", "exampleMeaning": "多少钱？",
+    "category": "疑问词", "difficulty": "medium", "tonePattern": [1, 1],
+    "variants": [
+      {"form": "Geijlai", "meaning": "多少", "suffix": "", "group": "基本形式"},
+      {"form": "Bouxlawz", "meaning": "谁", "suffix": "", "group": "疑问词"},
+      {"form": "Maz", "meaning": "什么", "suffix": "", "group": "疑问词"},
+      {"form": "Gizlawz", "meaning": "哪里", "suffix": "", "group": "疑问词"},
+      {"form": "Seizlawz", "meaning": "什么时候", "suffix": "", "group": "疑问词"},
+      {"form": "Vihmaz", "meaning": "为什么", "suffix": "", "group": "疑问词"}
+    ]
+  }
+]

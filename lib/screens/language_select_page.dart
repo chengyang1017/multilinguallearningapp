@@ -115,10 +115,12 @@ class LanguageSelectPage extends StatelessWidget {
       return '词根 + 人称/时态/格变化';
     case LearningLanguage.russian:
       return '名词变格、动词变位';
-      case LearningLanguage.javanese:
-    return '敬语系统：普通/敬语/高敬语三级';
-      case LearningLanguage.muong:
-    return '越南少数民族语言，与越南语同源';
+    case LearningLanguage.javanese:
+      return '敬语系统：普通/敬语/高敬语三级';
+    case LearningLanguage.muong:
+      return '越南少数民族语言，与越南语同源';
+    case LearningLanguage.zhuang:
+      return '中国壮族语言，6个舒声调+2个促声调';
   }
 }
 }
