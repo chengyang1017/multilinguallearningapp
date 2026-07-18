@@ -8,7 +8,6 @@ class WordLoader {
   static const _baseUrl = 'https://raw.githubusercontent.com/chengyang1017/multilinguallearningapp/main/assets/languages';
 
   static Future<List<WordModel>> loadWords(LearningLanguage language) async {
-    // 先从 GitHub 加载（最新数据）
     try {
       final url = '$_baseUrl/${language.fileName}';
       final response = await http.get(Uri.parse(url)).timeout(const Duration(seconds: 5));
@@ -18,7 +17,6 @@ class WordLoader {
       }
     } catch (_) {}
 
-    // 网络失败降级到本地
     final path = 'assets/languages/${language.fileName}';
     final jsonString = await rootBundle.loadString(path);
     final List<dynamic> jsonList = json.decode(jsonString);
